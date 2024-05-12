@@ -1,0 +1,4 @@
+requests~=2.31.0
+validators~=0.28.1
+python-telegram-bot
+yt-dlp
